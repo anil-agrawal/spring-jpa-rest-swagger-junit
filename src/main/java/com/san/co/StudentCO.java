@@ -19,13 +19,31 @@
 
 package com.san.co;
 
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement(name = "student")
+@XmlAccessorType(XmlAccessType.NONE)
 public class StudentCO {
 
+	@XmlElement
 	private long studentId;
+
+	@XmlElement
 	private long rollNo;
+
+	@XmlElement
 	private String firstName;
+
+	@XmlElement
 	private String lastName;
+
+	@XmlElement
 	private int standard;
+
+	@XmlElement
 	private String address;
 
 	public long getStudentId() {

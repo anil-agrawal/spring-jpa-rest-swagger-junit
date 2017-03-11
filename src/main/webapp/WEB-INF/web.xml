@@ -31,13 +31,4 @@
 		<servlet-name>restEntryPoint</servlet-name>
 		<url-pattern>/api/*</url-pattern>
 	</servlet-mapping>
-	<servlet>
-		<servlet-name>sampleServlet</servlet-name>
-		<servlet-class>com.san.rest.TestServlet</servlet-class>
-	</servlet>
-
-	<servlet-mapping>
-		<servlet-name>sampleServlet</servlet-name>
-		<url-pattern>/test/*</url-pattern>
-	</servlet-mapping>
 </web-app>
