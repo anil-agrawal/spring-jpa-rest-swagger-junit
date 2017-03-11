@@ -1,0 +1,10 @@
+/home/anil/workspace/spring-jpa-rest-swagger/src/main/java/com/san/repo/StudentRepository.java
+/home/anil/workspace/spring-jpa-rest-swagger/src/main/java/com/san/config/RestConfig.java
+/home/anil/workspace/spring-jpa-rest-swagger/src/main/java/com/san/domain/Student.java
+/home/anil/workspace/spring-jpa-rest-swagger/src/main/java/com/san/rest/StudentController.java
+/home/anil/workspace/spring-jpa-rest-swagger/src/main/java/com/san/config/JPAConfig.java
+/home/anil/workspace/spring-jpa-rest-swagger/src/main/java/com/san/co/NewStudentCO.java
+/home/anil/workspace/spring-jpa-rest-swagger/src/main/java/com/san/service/StudentService.java
+/home/anil/workspace/spring-jpa-rest-swagger/src/main/java/com/san/co/StudentCO.java
+/home/anil/workspace/spring-jpa-rest-swagger/src/main/java/com/san/config/AppConfig.java
+/home/anil/workspace/spring-jpa-rest-swagger/src/main/java/com/san/config/SwaggerConfig.java
